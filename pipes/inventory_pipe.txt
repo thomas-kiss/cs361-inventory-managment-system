@@ -1,2 +1,0 @@
-done
-/Users/Alex/Documents/CS361/inventory/data/low_inventory.json
