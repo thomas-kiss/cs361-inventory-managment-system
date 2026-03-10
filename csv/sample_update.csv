@@ -1,0 +1,4 @@
+name,sku,quantity,restock threshold,size,material,location,cost
+Tru Vue Museum Glass,0001,25,5,8 x 10,glass,Bin 8,210
+Clear Acrylic Sheet,0035,60,10,24 x 36,acrylic,Bin 3,27.00
+Frame Hanging Wire,0923,120,25,various,steel,Bin 20,0.80

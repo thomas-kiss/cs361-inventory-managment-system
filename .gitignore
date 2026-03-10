@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Generated data files
+data/low_inventory.json
+data/updated_inventory.json
+data/value_report.json
+
+# Generated CSV exports
+csv/inventory_export_*.csv

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Tru Vue Museum Glass",
+    "sku": "0001",
+    "quantity": "20",
+    "restock threshold": "5",
+    "size": "8 x 10",
+    "material": "glass",
+    "location": "Bin 8",
+    "cost": "200"
+  },
+  {
+    "name": "Omega Edge Matte Black Float Profile",
+    "sku": "247",
+    "quantity": "5",
+    "restock threshold": "2",
+    "size": "1.5\" x 7/8\" x 5/16\"",
+    "material": "Hardwood",
+    "location": "Bin 8",
+    "cost": "16"
+  },
+  {
+    "name": "Clear Acrylic Sheet",
+    "sku": "0035",
+    "quantity": "50",
+    "restock threshold": "10",
+    "size": "24 x 36",
+    "material": "acrylic",
+    "location": "Bin 3",
+    "cost": "25.50"
+  },
+  {
+    "name": "Aluminum Frame - Silver",
+    "sku": "0147",
+    "quantity": "15",
+    "restock threshold": "5",
+    "size": "16 x 20",
+    "material": "aluminum",
+    "location": "Bin 5",
+    "cost": "35"
+  },
+  {
+    "name": "Cotton Canvas Backing",
+    "sku": "0552",
+    "quantity": "30",
+    "restock threshold": "10",
+    "size": "18 x 24",
+    "material": "cotton",
+    "location": "Bin 12",
+    "cost": "8.75"
+  },
+  {
+    "name": "Gold Leaf Foil",
+    "sku": "0789",
+    "quantity": "2",
+    "restock threshold": "3",
+    "size": "12 x 12",
+    "material": "metal foil",
+    "location": "Bin 15",
+    "cost": "45"
+  },
+  {
+    "name": "Frame Hanging Wire",
+    "sku": "0923",
+    "quantity": "100",
+    "restock threshold": "25",
+    "size": "various",
+    "material": "steel",
+    "location": "Bin 20",
+    "cost": "0.75"
+  },
+  {
+    "name": "UV Protection Spray",
+    "sku": "1124",
+    "quantity": "1",
+    "restock threshold": "2",
+    "size": "8 oz",
+    "material": "chemical",
+    "location": "Shelf 2",
+    "cost": "12.30"
+  },
+  {
+    "name": "Premium Oak Frame",
+    "sku": "2001",
+    "quantity": "10",
+    "restock threshold": "5",
+    "size": "20 x 24",
+    "material": "Hardwood",
+    "location": "Bin 9",
+    "cost": "50"
+  },
+  {
+    "name": "Museum Quality Mat Board",
+    "sku": "2002",
+    "quantity": "25",
+    "restock threshold": "10",
+    "size": "16 x 20",
+    "material": "acid-free paper",
+    "location": "Bin 10",
+    "cost": "15.75"
+  },
+  {
+    "name": "Eco-Friendly Backing",
+    "sku": "2003",
+    "quantity": "40",
+    "restock threshold": "15",
+    "size": "18 x 24",
+    "material": "recycled cardboard",
+    "location": "Bin 11",
+    "cost": "5.50"
+  }
+]

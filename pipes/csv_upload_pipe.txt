@@ -1,0 +1,2 @@
+done
+/Users/Alex/Documents/CS361/inventory/data/updated_inventory.json
